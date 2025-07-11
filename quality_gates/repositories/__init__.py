@@ -1,0 +1,2 @@
+from quality_gates.repositories.service import ServiceRepository
+from quality_gates.repositories.trusted import TrustedRepository

@@ -1,0 +1,2 @@
+from quality_gates.services.service import ServicesService
+from quality_gates.services.trusted import TrustedImages
